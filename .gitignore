@@ -1,0 +1,13 @@
+# Variables de entorno
+.env
+.env.*
+
+# Permitir plantilla de ejemplo
+!.env.example
+
+# Dependencias de Composer
+/vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
